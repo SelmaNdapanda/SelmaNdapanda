@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" raw="true" width="450" height="300" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SelmaNdapanda&label=Profile%20views&color=0e75b6&style=flat" alt="Selma" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript, React/Redux, Ruby and Ruby on Rails**
 
 - 📫 How to reach me: **selmandapanda@yahoo.com**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sellohBlaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selmahamutenya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/selma-hamutenya-19169a1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SelmaHamutenya" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/selma-hamutenya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SelmaHamutenya" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
@@ -31,6 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SelmaNdapanda&show_icons=true&locale=en&layout=compact" alt="Selma" /></p>
 
