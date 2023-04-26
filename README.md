@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" raw="true" width="450" height="300" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SelmaNdapanda&label=Profile%20views&color=0e75b6&style=flat" alt="Selma" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React/Redux, Ruby and Ruby on Rails**
+- 🌱 I’m currently learning **React/Redux, Ruby and Ruby on Rails**
 
 - 📫 How to reach me: **selmandapanda@yahoo.com**
 
