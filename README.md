@@ -20,7 +20,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filament/filament-original-wordmark.svg" alt="filament" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLINT" **alt="linter" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
